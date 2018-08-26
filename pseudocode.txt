@@ -1,0 +1,12 @@
+Goals:
+- Make the program allow for two people to play.
+- Have two choice fields for player one and two.
+- Make a button that submits both of their responses
+- Compare them both against the random heads or tails variable
+- Have if else statements for different potential outcomes
+- Have a button to try again
+
+
+Extra Features (DONT WORRY ABOUT THIS YET):
+- Make a login for users to play online
+- Somehow make a room for two people to connect
